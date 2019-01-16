@@ -1,11 +1,11 @@
-#HQtrivia Google Bot
+# HQtrivia Google Bot
 This is a bot that helps you google HQTrivia questions. 
 
-##Warning
+## Warning
 The code here is for running on ubuntu while playing HQ on an iPhone. The code is setup specific and will not work without on most setups without modifications. Furthermore, code quality is very low since this bot was created as a first learning project.
 
 Also this bot relies heavily on tools from the GoogleCloud API, so you will need to obtain an api key. 
-##How it works 
+## How it works 
 * When your iPhone is plugged in to your machine, use ifuse-media to gain read access to the directory on your iPhone where images are stored.
 * The bot then crops the image to isolate text.
 * Text is obtained from the cropped image using Google Vision API and then formatted.
