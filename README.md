@@ -1,5 +1,5 @@
 # HQtrivia Google Bot
-This is a bot that helps you google HQTrivia questions. 
+This is a bot that helps you google HQTrivia questions. It was written in early spring 2018.
 
 ## Warning
 The code here is for running on Ubuntu while playing HQ on an iPhone. The code is setup specific and will not work on most setups without modifications. Furthermore, code quality is very low since this bot was created as a first learning project.
