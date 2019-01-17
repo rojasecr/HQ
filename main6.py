@@ -105,14 +105,6 @@ def kworder_numer(q): ##given a string returns a list of keywords, i.e entities 
 
 ## Answer scoring module, searches question with each answer and counts the occurencs of keywords and answers.
 
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan  4 23:22:26 2018
-
-@author: annaelena
-"""
-
 
 from googleapiclient.discovery import build
 import pprint

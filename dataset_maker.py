@@ -103,15 +103,6 @@ def kworder_sals(q,ts): ##given a string and list tokens returns a list of keywo
 
 ## Answer scoring module, searches question with each answer and counts the occurencs of keywords and answers.
 
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan  4 23:22:26 2018
-
-@author: annaelena
-"""
-
-
 from googleapiclient.discovery import build
 import pprint
 import urllib2

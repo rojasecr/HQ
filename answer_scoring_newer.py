@@ -1,11 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan  4 23:22:26 2018
-
-@author: annaelena
-"""
-
 from googleapiclient.discovery import build
 import pprint
 import urllib2
